@@ -15,7 +15,8 @@ Implementar una simulación del espectro de radiación de cuerpo negro basada en
 ## Cómo correr el notebook
 1. Crea/activa un entorno con Python 3.
 2. Instala dependencias:
-   --> numpy, matplotlib, scipy (para curve_fit).
+   --> numpy, matplotlib, scipy (para curve_fit)
+   
 ​3. Abre Pordefinri.ipynb en Jupyter/Colab y ejecuta las celdas en orden.
 
 ## Uso rápido (funciones principales)
